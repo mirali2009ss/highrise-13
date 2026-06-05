@@ -1,4 +1,1 @@
-pip
-setuptools
-wheel
-highrise-bot-sdk
+requests
